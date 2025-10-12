@@ -59,5 +59,5 @@ parser.add_argument('--CTX_INIT', type=str, default='a video of a figure skating
 parser.add_argument('--PROMPT_DEPTH_VISION', type=int, default=0)
 parser.add_argument('--PROMPT_DEPTH_TEXT', type=int, default=1)
 parser.add_argument('--pretrained_clip_weight', type=str,
-                    default='/data/xhb/CLIP-AQA/1/models/k400_clip_complete_finetuned_30_epochs.pth')
+                    default='weights/k400_clip_complete_finetuned_30_epochs.pth')
 parser.add_argument('--action_list', type=str, default='./action-label.csv')
