@@ -47,15 +47,14 @@ If your model training fails to converge or fit your application well, you may c
 ## Citation
 If our project is helpful for your research, please consider citing:
 ```
-@ARTICLE{11124552,
+@article{xu2025quality,
+  title={Quality-Guided Vision-Language Learning for Long-Term Action Quality Assessment},
   author={Xu, Huangbiao and Wu, Huanqi and Ke, Xiao and Li, Yuezhou and Xu, Rui and Guo, Wenzhong},
-  journal={IEEE Transactions on Multimedia}, 
-  title={Quality-Guided Vision-Language Learning for Long-Term Action Quality Assessment}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={10.1109/TMM.2025.3599078}}
+  journal={IEEE Transactions on Multimedia},
+  volume={27},
+  pages={7326--7339},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
